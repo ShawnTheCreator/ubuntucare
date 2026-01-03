@@ -66,6 +66,7 @@ Ubuntu Care is an innovative AI-powered healthcare application designed to bridg
 
 |  ![WhatsApp Image 2025-12-29 at 12 56 15 PM](https://github.com/user-attachments/assets/49b4648f-93cc-40c5-9f74-216f46852d05)
 ![WhatsApp Image 2025-12-29 at 12 56 17 PM](https://github.com/user-attachments/assets/606eaf3a-6e6b-4833-8d7a-93ae2c5d5629) ![WhatsApp Image 2025-12-29 at 12 56 16 PM](https://github.com/user-attachments/assets/5809924a-9f70-4b3c-bcdb-d5a3f2320aae) ![WhatsApp Image 2025-12-29 at 12 56 16 PM (1)](https://github.com/user-attachments/assets/1109f65e-a4d6-44f1-9afc-35b73891820c) ![WhatsApp Image 2025-12-29 at 12 56 17 PM](https://github.com/user-attachments/assets/72e89252-8381-400d-9083-c80c8a5936ef) ![WhatsApp Image 2025-12-29 at 12 56 18 PM](https://github.com/user-attachments/assets/849e87b9-8e05-4992-851b-7f85f1b4be67)
+![WhatsApp Image 2026-01-03 at 11 49 25 PM](https://github.com/user-attachments/assets/beded083-80d5-4aee-aec4-59ecd58ef1a8)
 
 
 
